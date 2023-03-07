@@ -5,6 +5,10 @@
 *.html linguist-detectable=false  
 *.xml linguist-detectable=false
 *.cpp linguist-detectable=false
-*.mk linguist-detectable=false
-*.mak linguist-detectable=false
 *.c linguist-detectable=false
+*.mak linguist-detectable=false
+*.d linguist-detectable=false
+*.make linguist-detectable=false
+*.makefile linguist-detectable=false
+*.mk linguist-detectable=false
+*.mkfile linguist-detectable=false
