@@ -18,11 +18,14 @@ equatable, freezed_annotation, get_it, path_provider, path, bloc_concurrency and
 API End point:
 https://jsonplaceholder.typicode.com
 
-
+##Show all albums
 ![Screenshot](https://github.com/vignarajj/flutter_test_one/blob/main/screenshots/scr1.png)
 
+##Show the photos from the albums
 ![Screenshot](https://github.com/vignarajj/flutter_test_one/blob/main/screenshots/scr2.png)
 
+##Show the search screeen
 ![Screenshot](https://github.com/vignarajj/flutter_test_one/blob/main/screenshots/scr3.png)
 
+##Show the thumbnail with title
 ![Screenshot](https://github.com/vignarajj/flutter_test_one/blob/main/screenshots/scr4.png)
