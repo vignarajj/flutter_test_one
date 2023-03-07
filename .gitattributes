@@ -3,3 +3,4 @@
 *.java linguist-detectable=false
 *.dart linguist-detectable=true
 *.cpp linguist-detectable=false
+.mk linguist-language=dart
