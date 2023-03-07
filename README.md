@@ -22,10 +22,10 @@ https://jsonplaceholder.typicode.com
 ![Screenshot](https://github.com/vignarajj/flutter_test_one/blob/main/screenshots/scr1.png)
 
 ## Show the photos from the albums
-![Screenshot](https://github.com/vignarajj/flutter_test_one/blob/main/screenshots/scr4.png)
+![Screenshot](https://github.com/vignarajj/flutter_test_one/blob/main/screenshots/scr3.png)
 
 ## Show the search screeen
-![Screenshot](https://github.com/vignarajj/flutter_test_one/blob/main/screenshots/scr3.png)
+![Screenshot](https://github.com/vignarajj/flutter_test_one/blob/main/screenshots/scr4.png)
 
 ## Show the thumbnail with title
 ![Screenshot](https://github.com/vignarajj/flutter_test_one/blob/main/screenshots/scr2.png)
