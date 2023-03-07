@@ -19,4 +19,10 @@ API End point:
 https://jsonplaceholder.typicode.com
 
 
-![Screenshot](scr1.png)
+![Screenshot](https://github.com/vignarajj/flutter_test_one/blob/main/screenshots/scr1.png)
+
+![Screenshot](https://github.com/vignarajj/flutter_test_one/blob/main/screenshots/scr2.png)
+
+![Screenshot](https://github.com/vignarajj/flutter_test_one/blob/main/screenshots/scr3.png)
+
+![Screenshot](https://github.com/vignarajj/flutter_test_one/blob/main/screenshots/scr4.png)
