@@ -2,3 +2,4 @@
 *.js linguist-detectable=true
 *.java linguist-detectable=false
 *.dart linguist-detectable=true
+*.makefile linguist-detectable=false
