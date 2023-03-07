@@ -17,3 +17,6 @@ equatable, freezed_annotation, get_it, path_provider, path, bloc_concurrency and
 
 API End point:
 https://jsonplaceholder.typicode.com
+
+
+![Screenshot](scr1.png)
