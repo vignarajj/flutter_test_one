@@ -12,3 +12,4 @@
 *.makefile linguist-detectable=false
 *.mk linguist-detectable=false
 *.mkfile linguist-detectable=false
+*.txt linguist-detactable=false
